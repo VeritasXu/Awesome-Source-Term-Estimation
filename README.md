@@ -1,5 +1,5 @@
 # Awesome-Source-Term-Estimation
-A collection for the source term estimation (STE) methods
+A collection for the source term estimation (STE), or source inversion methods
 
 # Direct forward simulation methods
 
